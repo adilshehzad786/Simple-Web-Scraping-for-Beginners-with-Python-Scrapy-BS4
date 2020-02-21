@@ -33,4 +33,4 @@ for quote in quotes:
     print(aquote, file=file1)
     print(author, file=file1)
 
-    print("File Saved and program terminated Successsfully")
+    
